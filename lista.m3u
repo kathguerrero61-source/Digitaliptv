@@ -1,13 +1,5 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="" group-title="Noticias", CNN
-https://example.com/cnn.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN
-https://example.com/espn.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Películas", Cine
-https://example.com/cine.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", TVE
-https://example.com/tve.m3u8https://raw.githubusercontent.com/kathguerrero61-source/Digitaliptv/main/lista.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/categories/movies.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/categories/entertainment.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/categories/documentary.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/categories/sports.m3u
+raw.githubusercontent.com
