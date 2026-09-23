@@ -1,13 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Noticias", CNN
-https://example.com/cnn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España", La 1
+https://servidor-autorizado.example/es/la1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN
-https://example.com/espn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España", Antena 3
+https://servidor-autorizado.example/es/antena3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Películas", Cine
-https://example.com/cine.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México", Canal 5
+https://servidor-autorizado.example/mx/canal5.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", TVE
-https://example.com/tve.m3u8https://raw.githubusercontent.com/kathguerrero61-source/Digitaliptv/main/lista.m3u
+#EXTINF:-1 tvg-logo="" group-title="México", Azteca 7
+https://servidor-autorizado.example/mx/azteca7.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina", TN
+https://servidor-autorizado.example/ar/tn.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina", ESPN
+https://servidor-autorizado.example/ar/espn.m3u8
