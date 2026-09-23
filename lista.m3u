@@ -1,13 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Canal Ejemplo Peliculas 1" tvg-logo="" group-title="Peliculas",Cine Favorito
+https://raw.githubusercontent.com/iptv-org/iptv/master/categories/movies.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Canal Ejemplo Entretenimiento 1" tvg-logo="" group-title="Entretenimiento",Entretenimiento Total
+https://raw.githubusercontent.com/iptv-org/iptv/master/categories/entertainment.m3u
 
-#EXTINF:-1 tvg-logo="" group-title="Noticias", CNN
-https://example.com/cnn.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN
-https://example.com/espn.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Películas", Cine
-https://example.com/cine.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", TVE
-https://example.com/tve.m3u8https://raw.githubusercontent.com/kathguerrero61-source/Digitaliptv/main/lista.m3u
